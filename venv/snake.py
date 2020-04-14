@@ -16,6 +16,7 @@ class Game:
     snk_y = 0
 
 
+
 def update_snake(snake, action = 'move'):
 
     if action == 'move':
